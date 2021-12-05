@@ -1,0 +1,25 @@
+{
+  "name": "projeto-crud",
+  "version": "1.0.0",
+  "description": "Projeto para vaga dev-júnior MOCX",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paccurti/CRUDMOCX"
+  },
+  "dependencies": {
+    "body-parser": "~1.19.0",
+    "express": "~4.17.1",
+    "mongoose": "*",
+    "request": "~2.88.2"
+  },
+  "author": "Pedro Curti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paccurti/CRUDMOCX/issues"
+  },
+  "homepage": "https://github.com/Paccurti/CRUDMOCX#readme"
+}
